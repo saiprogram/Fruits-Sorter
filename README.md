@@ -1,5 +1,4 @@
- Features
-
+### Features
 -  Fetches fruit data from a custom-built Express/Node.js backend
 -  Displays the list dynamically using React and modern React Hooks (`useEffect`, `useState`)
 -  Organized project structure for scalability and separation of concerns
@@ -7,8 +6,7 @@
 -  Handles loading and error states for API calls
 -  Fully responsive design using CSS Flexbox/Grid
 
-
-Frontend:
+### Frontend:
 - **React (Vite)**
 - **JavaScript**
 - **CSS**
