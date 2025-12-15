@@ -1,6 +1,6 @@
 ### Features
 -  Fetches fruit data from a custom-built Express/Node.js backend
--  Displays the list dynamically using React and modern React Hooks (`useEffect`, `useState`)]
+-  Displays the list dynamically using React and React Hooks (`useEffect`, `useState`)]
 ### Frontend:
 - **React (Vite)**
 - **JavaScript**
